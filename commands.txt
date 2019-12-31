@@ -1,0 +1,11 @@
+python -m scrapy startproject ScrapyDemo
+
+		  scrapy startproject scrapyspider
+
+
+
+python -m scrapy crawl nw_lyrics -o nw.csv
+
+          scrapy crawl nw_lyrics -o nw.csv
+
+
